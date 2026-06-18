@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-vasconcellos-borba-035290145/">
+  <a href="https://www.linkedin.com/in/victor-vasconcellos-borba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:victorvb99@gmail.com">
@@ -52,9 +52,9 @@ O que me move: modelos de dados limpos e bem documentados, transformações test
 
 ## 🚧 Currently working on · Em andamento
 
-🏎️ **[F1 Data Analysis](https://github.com/victorborba7/f1-data-analysis)** — an ongoing side project where I dig into Formula 1 data, share the findings as posts on [LinkedIn](https://www.linkedin.com/in/victor-vasconcellos-borba-035290145/), and publish everything as a website built with **Quarto** and hosted on **GitHub Pages**.
+🏎️ **[F1 Data Analysis](https://github.com/victorborba7/f1-data-analysis)** — an ongoing side project where I dig into Formula 1 data, share the findings as posts on [LinkedIn](https://www.linkedin.com/in/victor-vasconcellos-borba/), and publish everything as a website built with **Quarto** and hosted on **GitHub Pages**.
 
-<em>🏎️ **[Análise de dados de F1](https://github.com/victorborba7/f1-data-analysis)** — um projeto paralelo em andamento onde exploro dados da Fórmula 1, compartilho os resultados em posts no [LinkedIn](https://www.linkedin.com/in/victor-vasconcellos-borba-035290145/) e publico tudo como um site feito com **Quarto** e hospedado no **GitHub Pages**.</em>
+<em>🏎️ **[Análise de dados de F1](https://github.com/victorborba7/f1-data-analysis)** — um projeto paralelo em andamento onde exploro dados da Fórmula 1, compartilho os resultados em posts no [LinkedIn](https://www.linkedin.com/in/victor-vasconcellos-borba/) e publico tudo como um site feito com **Quarto** e hospedado no **GitHub Pages**.</em>
 
 ---
 
@@ -123,7 +123,7 @@ I'm always open to talking about data, analytics engineering and interesting pro
 <em>Estou sempre aberto a conversar sobre dados, analytics engineering e problemas interessantes.</em>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-vasconcellos-borba-035290145/">
+  <a href="https://www.linkedin.com/in/victor-vasconcellos-borba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:victorvb99@gmail.com">
