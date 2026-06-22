@@ -103,7 +103,7 @@ O que me move: modelos de dados limpos e bem documentados, transformações test
 
 ---
 
-## 📈 GitHub Stats
+[## 📈 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorborba7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Victor's GitHub stats"/>
@@ -115,7 +115,7 @@ O que me move: modelos de dados limpos e bem documentados, transformações test
 </div>
 
 ---
-
+](url)
 ## 🤝 Let's connect
 
 I'm always open to talking about data, analytics engineering and interesting problems.
